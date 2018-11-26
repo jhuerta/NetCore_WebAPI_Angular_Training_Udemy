@@ -1,0 +1,997 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Prolad",
+				"PreloadAllModules\talias"
+			],
+			[
+				"Header",
+				"HeaderComponent\talias"
+			],
+			[
+				"r",
+				"recipes/"
+			],
+			[
+				"au",
+				"auth.module\tscript"
+			],
+			[
+				"a",
+				"auth/"
+			],
+			[
+				"aut",
+				"auth-routing.module\tscript"
+			],
+			[
+				"sig",
+				"signup.component.ts"
+			],
+			[
+				"Shopping",
+				"ShoppingListRoutingModule\talias"
+			],
+			[
+				"shopp",
+				"shopping-list.component.css"
+			],
+			[
+				"shop",
+				"shopping-list.module.ts"
+			],
+			[
+				"sh",
+				"shopping-edit/"
+			],
+			[
+				"recipe",
+				"recipe-edit\tdirectory"
+			],
+			[
+				"re",
+				"recipe-item/"
+			],
+			[
+				"recip",
+				"recipe-detail.component.ts"
+			],
+			[
+				"server",
+				"storeServers\tmethod"
+			],
+			[
+				"con",
+				"controls\tproperty"
+			],
+			[
+				"setV",
+				"setValue\tmethod"
+			],
+			[
+				"forb",
+				"forbiddenEmails\tmethod"
+			],
+			[
+				"forbi",
+				"forbiddenUsernames\tproperty"
+			],
+			[
+				"sign",
+				"signupForm\tproperty"
+			],
+			[
+				"m",
+				"minLength\tmethod"
+			],
+			[
+				"na",
+				"navigate\tmethod"
+			],
+			[
+				"reci",
+				"recipe-edit\tdirectory"
+			],
+			[
+				"sho",
+				"shopping-list.component.ts"
+			],
+			[
+				"rec",
+				"recipes.component.ts"
+			],
+			[
+				"config",
+				"webpack.config.dev.js"
+			],
+			[
+				"style",
+				"styleUrls\tproperty"
+			],
+			[
+				"add",
+				"addIngredients\tmethod"
+			],
+			[
+				"in",
+				"ingredients\tparameter"
+			],
+			[
+				"ing",
+				"ingredientsChanged\tproperty"
+			],
+			[
+				"ingre",
+				"ingredients\tproperty"
+			],
+			[
+				"shopping-list",
+				"shopping-list.service.ts"
+			],
+			[
+				"c",
+				"bootstrap.min.css"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"war",
+				"warning-alert.component.css"
+			],
+			[
+				"agilof",
+				"agiloftAuth"
+			],
+			[
+				"url",
+				"urlEncryptedValue"
+			],
+			[
+				"htm",
+				"htmlElement"
+			],
+			[
+				"contr",
+				"venueController"
+			],
+			[
+				"gety",
+				"getDay\t(): int Date"
+			],
+			[
+				"cat",
+				"cathErrors"
+			],
+			[
+				"info",
+				"infoJson"
+			],
+			[
+				"people",
+				"peopleIterator"
+			],
+			[
+				"follo",
+				"followerInfo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"orig",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"ori  des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"prett",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"orig righ",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"origami",
+				"Origami: Create Pane Below"
+			],
+			[
+				"origa",
+				"Package Control: Install Package"
+			],
+			[
+				"prtti",
+				"JsPrettier: Format Code"
+			],
+			[
+				"tslint",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"eslint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"autofix",
+				"eslintAutoFix"
+			],
+			[
+				"pret",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"jspre",
+				"JsPrettier: Format Code"
+			],
+			[
+				"intall pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify: Set Plugin Options"
+			],
+			[
+				"htl",
+				"HTMLPrettify"
+			],
+			[
+				"prettier",
+				"Preferences: JsPrettier Settings - Default"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"terminality",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"termina",
+				"Terminal: Open"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"type",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"pretti",
+				"JsPrettier: Format Code"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"typ",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"tabs",
+				"TabsExtra: Settings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insall pa",
+				"Package Control: Install Package"
+			],
+			[
+				"html ",
+				"HTMLBeautify"
+			],
+			[
+				"typescr",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"form",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"es",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"esl",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"line",
+				"Line Endings Unify"
+			],
+			[
+				"javascrip",
+				"Javascript Beautify"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"vue ",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"vue c",
+				"Snippet: Vue component"
+			],
+			[
+				"syn vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"format css",
+				"Format CSS: Compact"
+			],
+			[
+				"set sycss",
+				"Set Syntax: CSS"
+			],
+			[
+				"h",
+				"HTMLBeautify"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"eslin",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"format",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"for",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"forma",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"syn vu",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"vue aut",
+				"VUEFormatter: Set Keyboard Shortcuts"
+			],
+			[
+				"fomrat",
+				"ESLint Formatter: Format this file"
+			],
+			[
+				"rmeove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublimelinter ",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"ori cr pa r",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"linter",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"pug",
+				"Set Syntax: Pug"
+			],
+			[
+				"npm",
+				"Set Syntax: NPM JSON"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"color pic",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"se sy css",
+				"Set Syntax: CSS"
+			],
+			[
+				"set sy  css",
+				"Set Syntax: CSS"
+			],
+			[
+				"s s html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ori zoo",
+				"Origami: Unzoom Current Pane"
+			],
+			[
+				"ori clon ri",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"de pa le",
+				"Origami: Destroy Pane on the Left"
+			],
+			[
+				"de pa ri",
+				"Origami: Destroy Pane on the Right"
+			],
+			[
+				"cre wi ",
+				"Origami: Create Pane with File Below"
+			],
+			[
+				"fo pa le",
+				"Origami: Focus on Pane on the Left"
+			],
+			[
+				"des p b",
+				"Origami: Destroy Pane Below"
+			],
+			[
+				"cr pa le",
+				"Origami: Create Pane on the Left"
+			],
+			[
+				"cr pa be",
+				"Origami: Create Pane Below"
+			],
+			[
+				"or cre pa ri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"insall p",
+				"Package Control: Install Package"
+			],
+			[
+				"sy htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set sy css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"lowerc",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"html pre",
+				"HTMLPrettify"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"materi",
+				"Activate Materialize Theme"
+			],
+			[
+				"materia",
+				"Activate Materialize Theme"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 197.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"----------------"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jhuerta/Documents/Trainings/NetCore_WebAPI_Angular_Training_Udemy"
+	],
+	"file_history":
+	[
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/recipes/recipe-edit/recipe-edit.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/recipes/recipe-edit/recipe-edit.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/core/header/header.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/CourseNotes.txt",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/core/header/header.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/core/core.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/app.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/app-routing.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/shopping-list/shopping-list.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/shopping-list/shopping-list-routing.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/recipes/recipes.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/recipes/recipes-routing.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/core/home/home.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/credentials.services.ngsec.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/auth/auth.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/auth/auth-routing.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/auth/signup/signup.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/shopping-list/shopping-edit/shopping-edit.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/shared/shared.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/shared/server.service.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/shared/data-storage.service.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/auth/auth.service.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/app.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/.gitignore",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/.gitignore",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/tslint.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/package.json",
+		"/Users/jhuerta/Library/Application Support/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/service_works_offling_capabilities/src/app/app.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/service_works_offling_capabilities/src/index.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/pipes-assignment/tslint.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/http_requests_section_18/tslint.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/pipes-assignment/src/app/sort.pipe.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/http_requests_section_18/src/app/server.service.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/pipes-assignment/src/app/reverse.pipe.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_reactive_assignment/src/app/custom-validators.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_reactive_assignment/src/app/app.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/http_requests_section_18/src/app/app.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/http_requests_section_18/src/app/app.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/pipes-assignment/src/app/app.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_reactive_assignment/src/app/app.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_reactive_approach/src/app/app.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_reactive_assignment/src/app/app.component.spec.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/http_requests_section_18/src/app/app.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/pipes-assignment/src/app/app.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_reactive_approach/src/app/app.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_reactive_assignment/src/app/app.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_reactive_assignment/src/app/app.component.css",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/http_requests_section_18/package.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_template_driven_exercise/src/app/app.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_template_driven_exercise/src/app/app.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_reactive_approach/src/app/app.component.css",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_reactive_approach/src/app/app.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_template_driven_exercise/src/app/app.component.spec.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_reactive_approach/src/tslint.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/forms_reactive_approach/tslint.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/app.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/tslint.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/recipes/recipes.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/recipes/recipe.service.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/recipes/recipe.model.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/recipes/recipe-start/recipe-start.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/recipes/recipe-list/recipe-list.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/recipes/recipe-edit/recipe-edit.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/recipes/recipe-edit/recipe-edit.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/recipes/recipe-detail/recipe-detail.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/recipes/recipe-detail/recipe-detail.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/header/header.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/header/header.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/app.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/app-routing.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/routing-start/src/app/app-routing.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/routing-start/src/tslint.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/routing-start/tslint.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/routing-start/src/app/servers/servers.service.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/routing-start/src/app/servers/server/server.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/routing-start/src/app/servers/server/server-resolver.service.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/routing-start/src/app/error-page/error-page.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/routing-start/src/app/error-page/error-page.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/routing-start/src/app/app.module.ts",
+		"/Users/jhuerta/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/jhuerta/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom-project-final/package.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom-project-final_not_working/webpack.config.dev.js",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom-project-final_not_working/webpack.config.common.js",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom-project-final_not_working/src/polyfills.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom-project-final_not_working/src/app/main.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom-project-final_not_working/src/index.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom-project-final_not_working/src/app/app.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom-project-final_not_working/src/app/app.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/angular_universal_lecture/webpack.server.config.js",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/webpack.config.prod.js",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/webpack.config.dev.js",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/src/app/users/users.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/src/app/users/users.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/src/app/users/users.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/src/app/users/users.component.css",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/src/app/users/users-routing.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/angular_universal_lecture/src/tsconfig_2.app.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/angular_universal_lecture/src/tsconfig.server.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/tsconfig.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/angular_universal_lecture/src/tsconfig.app.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/angular_universal_lecture/server.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/src/polyfills.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/angular_universal_lecture/package.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/src/app/main.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/angular_universal_lecture/main.server.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/src/index.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/src/app/home.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/angular_universal_lecture/src/app/app.server.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/src/app/app.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/angular_universal_lecture/src/app/app.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/src/app/app.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/src/app/app.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/src/app/app.component.css",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/src/app/app-routing.module.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/angular_universal_lecture/angular.json",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/custom_project_workflow/.gitignore",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/services-assignment/src/app/usersManagement.service.ts",
+		"/Users/jhuerta/Library/Application Support/Sublime Text 3/Packages/User/Terminality.sublime-settings",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/shopping-list/shopping-list.service.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/shopping-list/shopping-list.component.ts",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/shopping-list/shopping-list.component.html",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/shopping-list",
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/services"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 155.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 77.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 168.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "netcore_webapi_angular_udemy_course.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"course",
+				"CourseNotes.txt"
+			],
+			[
+				"cour",
+				"CourseNotes.txt"
+			],
+			[
+				"courseno",
+				"CourseNotes.txt"
+			],
+			[
+				"routing",
+				"routing-start/src/app/app-routing.module.ts"
+			],
+			[
+				"shoppinglistser",
+				"_RecipeBook/src/app/shopping-list/shopping-list.service.ts"
+			],
+			[
+				"ingredient",
+				"_RecipeBook/src/app/shared/ingredient.model.ts"
+			],
+			[
+				"server.model",
+				"cmp-databinding_5_60\\src\\app\\shared\\server.model.ts"
+			],
+			[
+				"server.mo",
+				"cmp-databinding_5_60\\src\\app\\shared\\server.model.ts"
+			],
+			[
+				"app.com",
+				"cmp-databinding_5_60\\src\\app\\app.component.ts"
+			],
+			[
+				"courss",
+				"CourseNotes.txt"
+			],
+			[
+				"recipe-list",
+				"_RecipeBook\\src\\app\\recipes\\recipe-list\\recipe-list.component.ts"
+			],
+			[
+				"Course",
+				"CourseNotes.txt"
+			],
+			[
+				"shopping-list-ed",
+				"_RecipeBook/src/app/shopping-list/shopping-edit/shopping-edit.component.html"
+			],
+			[
+				"shopping-l",
+				"_RecipeBook/src/app/shopping-list/shopping-list.component.ts"
+			],
+			[
+				"shopping-list",
+				"_RecipeBook/src/app/shopping-list/shopping-list.component.html"
+			],
+			[
+				"recipe-deta",
+				"_RecipeBook/src/app/recipes/recipe-detail/recipe-detail.component.html"
+			],
+			[
+				"course no",
+				"CourseNotes.txt"
+			],
+			[
+				"c",
+				"CourseNotes.txt"
+			],
+			[
+				"cours",
+				"CourseNotes.txt"
+			],
+			[
+				"cou",
+				"CourseNotes.txt"
+			],
+			[
+				"inde",
+				"agiloft\\index.html"
+			],
+			[
+				"main.j",
+				"agiloft\\src\\main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\MyStuff\\Personal\\Trainings\\Vue_Agiloft_Poc\\Vue_Agiloft_Poc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
