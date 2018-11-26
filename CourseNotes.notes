@@ -1,7 +1,17 @@
-------------------------------------------------------------
---- TITLE ---
-#Subtitle# *highlightone* <highlighttwo>
 !! VERY IMPORTANT
---> => <== <--
-[js][end] [html][end] [c#][end]
+#Subtitle# *highlightone* <highlighttwo>
+--- SOFTWARE NEEDED ---
+--- STARTING THE PROJECT ---
+--- TITLE ---
 -----------------------------------------------------------
+------------------------------------------------------------
+--> => <== <--
+
+[js][end] [html][end] [c#][end]
+NPM and NodeJS
+Postman (API test app)
+SQL Lite and SQL Lite Browser
+Using the .NET CLI we create a new ASP .Net Core Web API, splitting the client and server side code completely
+  [sh]
+    dotnet new webapi -h
+  [end]

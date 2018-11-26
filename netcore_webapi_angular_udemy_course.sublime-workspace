@@ -183,6 +183,27 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "CourseNotes.notes",
+			"settings":
+			{
+				"buffer_size": 514,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n\n*NOTE* To see the below with .notes syntax highlighting,\ncopy the below text to a new file, select all, and shift + tab\nto remove leading spaces, then save as a .notes file. Thanks!\n\n---- Quick Start Guide -----\n\nNotes is a simple and easy-to-use language for taking every-day notes.\nTo enable, either set syntax to Notes or save as a .notes file.\nThe language was designed to follow normal note taking behavior.\nThe main advantage of .notes is its syntax support for 30+ major languages!\n\nBelow are the core concepts of the Notes language\n\nHeaders:\n- as the line above, any first-level text ending in a colon\n\nTitles:\n- Separate sections of notes via dashes\n----------- Inline Title ------------\n\n-----------------------------------------\n          Block Title\n-----------------------------------------\n\nUnordered Lists:\n- Either dashes\n. or periods\n  - Supports nesting\n\nOrdered Lists:\n1. same as unordered, but numbered\n2. like this\n  a. or lettered\n  i. including roman numerals\n  ii. like this\n3) just follow number/letter with . ) or both\n4. mix and match ordered and unordered lists\n  - like this\n  a. and this\n\nHighlights:\n  # can be full line\n  or #inline# as you please\n\nEmphasis:\n  - surround with <carrots>\n  - or with *astrisks*\n  - !! use bangs for super-important things\n      - full line (above), and !!inline!! as well\nURLS:\n  - urls are highlighted, and right click to open\n  - www.example.com, or with protocols: pop3://www.example.com\n\nVocabulary:\n  - word: its definition\nArrows:\n  - Usefule for showing flow\n  - like this --> or => this, or <--- this\n\nCode Snippets:\n  - This is the best part of .notes!\n  - simply surround code snippets with [language_name or file extension] and [end]\n\n[js]\n  (function (a, b) {\n      return {of.all = {major: 'languages'}\n  })(alpha, beta);\n[end]\n\n[html]\n  <h1 style=\"font-size:2em;\">and inline syntax highlighting</h1>\n  <script type=\"javascript\">\n      window.foo = bar;\n  </script>\n[end]\n\n[python]\n  class myLogger:\n      def __init__(self):\n          pass\n      def write(self,data):\n          file = open(\"mylog.txt\",\"a\")\n          file.write(data)\n          file.close()\n[end]\n\nNotes also supports inline snippets\n  - like so [java] System.out.println(\"Hello!\"); [end], see?\n\nBelow is the current list of supported languages:\n1.    Actionscript\n2.    Applescript\n3.    ASP\n4.    C\n5.    C++\n6.    C#\n7.    Clojure\n8.    CSS\n9.    D\n10.   Erlang\n11.   Go\n12.   Groovy\n13.   Haskell\n14.   HTML\n15.   Java\n16.   Javascript\n17.   Lua\n18.   Makefile\n19.   Markdown\n20.   Matlab\n21.   Objective-C\n22.   Ocaml\n23.   Pascal\n24.   Perl\n25.   PHP\n26.   Python\n27.   R\n28.   Regex\n29.   Ruby\n30.   Scala\n31.   Shell\n32.   SQL\n33.   TCL\n34.   TeX\n35.   XML\n36.   XSL\n37.   YAML\n\n\nNotes\n-----\n\n*NOTE* To see the below with .notes syntax highlighting,\ncopy the below text to a new file, select all, and shift + tab\nto remove leading spaces, then save as a .notes file. Thanks!\n\n---- Quick Start Guide -----\n\nNotes is a simple and easy-to-use language for taking every-day notes.\nTo enable, either set syntax to Notes or save as a .notes file.\nThe language was designed to follow normal note taking behavior.\nThe main advantage of .notes is its syntax support for 30+ major languages!\n\nBelow are the core concepts of the Notes language\n\nHeaders:\n- as the line above, any first-level text ending in a colon\n\nTitles:\n- Separate sections of notes via dashes\n----------- Inline Title ------------\n\n-----------------------------------------\n          Block Title\n-----------------------------------------\n\nUnordered Lists:\n- Either dashes\n. or periods\n  - Supports nesting\n\nOrdered Lists:\n1. same as unordered, but numbered\n2. like this\n  a. or lettered\n  i. including roman numerals\n  ii. like this\n3) just follow number/letter with . ) or both\n4. mix and match ordered and unordered lists\n  - like this\n  a. and this\n\nHighlights:\n  # can be full line\n  or #inline# as you please\n\nEmphasis:\n  - surround with <carrots>\n  - or with *astrisks*\n  - !! use bangs for super-important things\n      - full line (above), and !!inline!! as well\nURLS:\n  - urls are highlighted, and right click to open\n  - www.example.com, or with protocols: pop3://www.example.com\n\nVocabulary:\n  - word: its definition\nArrows:\n  - Usefule for showing flow\n  - like this --> or => this, or <--- this\n\nCode Snippets:\n  - This is the best part of .notes!\n  - simply surround code snippets with [language_name or file extension] and [end]\n\n[js]\n  (function (a, b) {\n      return {of.all = {major: 'languages'}\n  })(alpha, beta);\n[end]\n\n[html]\n  <h1 style=\"font-size:2em;\">and inline syntax highlighting</h1>\n  <script type=\"javascript\">\n      window.foo = bar;\n  </script>\n[end]\n\n[python]\n  class myLogger:\n      def __init__(self):\n          pass\n      def write(self,data):\n          file = open(\"mylog.txt\",\"a\")\n          file.write(data)\n          file.close()\n[end]\n\nNotes also supports inline snippets\n  - like so [java] System.out.println(\"Hello!\"); [end], see?\n\nBelow is the current list of supported languages:\n1.    Actionscript\n2.    Applescript\n3.    ASP\n4.    C\n5.    C++\n6.    C#\n7.    Clojure\n8.    CSS\n9.    D\n10.   Erlang\n11.   Go\n12.   Groovy\n13.   Haskell\n14.   HTML\n15.   Java\n16.   Javascript\n17.   Lua\n18.   Makefile\n19.   Markdown\n20.   Matlab\n21.   Objective-C\n22.   Ocaml\n23.   Pascal\n24.   Perl\n25.   PHP\n26.   Python\n27.   R\n28.   Regex\n29.   Ruby\n30.   Scala\n31.   Shell\n32.   SQL\n33.   TCL\n34.   TeX\n35.   XML\n36.   XSL\n37.   YAML\n",
+			"file": "notes_example.notes",
+			"file_size": 5477,
+			"file_write_time": 131877356449940610,
+			"settings":
+			{
+				"buffer_size": 5477,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -196,6 +217,50 @@
 		"selected_items":
 		[
 			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"map",
+				"View: Toggle Minimap"
+			],
+			[
+				"line",
+				"Sort Lines"
+			],
+			[
+				"notes",
+				"Set Syntax: Notes"
+			],
+			[
+				"isntall ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
 				"orig",
 				"Origami: Destroy Pane Below"
 			],
@@ -206,10 +271,6 @@
 			[
 				"prett",
 				"Preferences: JsPrettier Settings - Default"
-			],
-			[
-				"install pa",
-				"Package Control: Install Package"
 			],
 			[
 				"orig righ",
@@ -240,10 +301,6 @@
 				"Preferences: SublimeLinter Settings"
 			],
 			[
-				"install ",
-				"Package Control: Install Package"
-			],
-			[
 				"autofix",
 				"eslintAutoFix"
 			],
@@ -252,19 +309,11 @@
 				"Preferences: JsPrettier Settings - Default"
 			],
 			[
-				"remove pa",
-				"Package Control: Remove Package"
-			],
-			[
 				"jspre",
 				"JsPrettier: Format Code"
 			],
 			[
 				"intall pa",
-				"Package Control: Install Package"
-			],
-			[
-				"install p",
 				"Package Control: Install Package"
 			],
 			[
@@ -386,10 +435,6 @@
 			[
 				"htm",
 				"HTMLBeautify"
-			],
-			[
-				"line",
-				"Line Endings Unify"
 			],
 			[
 				"javascrip",
@@ -641,6 +686,7 @@
 	],
 	"file_history":
 	[
+		"/Users/jhuerta/Dropbox/Notes/.brain/Inbox.note",
 		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/recipes/recipe-edit/recipe-edit.component.ts",
 		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/recipes/recipe-edit/recipe-edit.component.html",
 		"/Users/jhuerta/Documents/Trainings/AngularUdemy/authentication_lesson_21/src/app/core/header/header.component.html",
@@ -767,8 +813,7 @@
 		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/shopping-list/shopping-list.service.ts",
 		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/shopping-list/shopping-list.component.ts",
 		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/shopping-list/shopping-list.component.html",
-		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/shopping-list",
-		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/services"
+		"/Users/jhuerta/Documents/Trainings/AngularUdemy/_RecipeBook/src/app/shopping-list"
 	],
 	"find":
 	{
@@ -803,8 +848,85 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "CourseNotes.notes",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								514,
+								514
+							]
+						],
+						"settings":
+						{
+							"SL.32.region_keys":
+							[
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"git_gutter_is_enabled": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Notes/notes.tmLanguage",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1543269530.36,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "notes_example.notes",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5477,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5410,
+								5415
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Notes/notes.tmLanguage",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1543267714.77,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5902.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -852,6 +974,10 @@
 		"height": 0.0
 	},
 	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
 	{
 		"height": 0.0
 	},
@@ -985,7 +1111,7 @@
 	"settings":
 	{
 	},
-	"show_minimap": true,
+	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
