@@ -1,13 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "_DatingApp/DatingApp.API"
+			"path": "DatingApp\\DatingApp.API"
 		},
 		{
-			"path": "."
+			"path": "DatingApp\\DatingApp-SPA"
 		},
 		{
-			"path": "_DatingApp"
+			"path": "Doc"
 		}
 	],
 	"settings": {}
