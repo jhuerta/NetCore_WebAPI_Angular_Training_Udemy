@@ -1,17 +1,53 @@
-!! VERY IMPORTANT
-#Subtitle# *highlightone* <highlighttwo>
---- SOFTWARE NEEDED ---
---- STARTING THE PROJECT ---
+!VERY IMPORTANT!
+#Subtitle# 
+*hightlightthree*
+"highlightone"
+`highlighttwo`
+// Comment
 --- TITLE ---
 -----------------------------------------------------------
 ------------------------------------------------------------
 --> => <== <--
-
+http://www.anyurl.com
 [js][end] [html][end] [c#][end]
+
+--- SOFTWARE NEEDED ---
 NPM and NodeJS
 Postman (API test app)
 SQL Lite and SQL Lite Browser
+
+--- STARTING THE PROJECT ---
 Using the .NET CLI we create a new ASP .Net Core Web API, splitting the client and server side code completely
   [sh]
     dotnet new webapi -h
   [end]
+
+#Install extension in VS Code#
+  - Nuget Package Manager
+  - C# (powered by OmniSharp)
+  - C# Extensions
+  
+`launchSettings.json`==> Very important file to define some of the settings of the web server
+`appsettings.Development.json` ==> Cool file for custom settings for Development (also possible to add other environments)
+`appsetings.json` ==> Default settings for other modes. Both files are applied, first the default, then the specific
+==> Notice in development there is a cath exception handler setup in the startup:
+[cs]
+            if (env.IsDevelopment())
+            {
+                app.UseDeveloperExceptionPage();
+            }
+[end]
+
+!VERY IMPORTANT! 
+[sh] dotnet watch run[end] ==> It will watch files for a change, compile and refresh!
+
+--- ENTITY FRAMEWORK ---
+  dotnet ef -h
+    migration: Will create tables in database based on dbsets i the DataContext.cs
+  
+  `dotnet ef migrations add InitialCreate`
+    This create the migration file and other in the Migration folder to know the state in the db.
+    It is simple to read the file, with the operations that will be created and the rollback
+  `dotnet ef database update`
+    It run the migrations neede
+  
