@@ -26,7 +26,19 @@ Using the .NET CLI we create a new ASP .Net Core Web API, splitting the client a
   - Nuget Package Manager
   - C# (powered by OmniSharp)
   - C# Extensions
-  
+  - EasyZoom or add to use settings "editor.mouseWheelZoom": true
+  - Angular Files (Alex Ivan)
+  - Angular Language Service
+  - Angular2-switcher
+  - Auto Rename Tag
+  - Braket Pair Colorizer
+  - Debugger for Chrome
+  - Material Icon Theme
+  - Path Intellisense
+  - Prettier
+  - TSLint
+
+
 `launchSettings.json`==> Very important file to define some of the settings of the web server
 `appsettings.Development.json` ==> Cool file for custom settings for Development (also possible to add other environments)
 `appsetings.json` ==> Default settings for other modes. Both files are applied, first the default, then the specific
@@ -50,4 +62,5 @@ Using the .NET CLI we create a new ASP .Net Core Web API, splitting the client a
     It is simple to read the file, with the operations that will be created and the rollback
   `dotnet ef database update`
     It run the migrations neede
-  
+
+--- TEST ---
