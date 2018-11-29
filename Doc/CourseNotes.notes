@@ -93,3 +93,11 @@ return BadRequest(MOdelState);
     We control what info we send in the JWT from client to server.
     We can use this container to put info about the user so the server wont have to query the database to get info about the user (username, roles, etc ...). This is called claims
   
+--- SUMMARY NOTES ---
+  Password should be stored hashed
+  The element to hash with, salt, also in the db
+  Use DTOs to shape the data sent and received
+  Use repository pattern to add layer of abstraccion with the data later
+  Use Auth Controller
+  JWT to secure api calls and add the authentication in the startup (authentication middleware)
+
