@@ -63,4 +63,33 @@ Using the .NET CLI we create a new ASP .Net Core Web API, splitting the client a
   `dotnet ef database update`
     It run the migrations neede
 
---- TEST ---
+--- DATA TRANSFER OBJECT DTO ---
+Use DTOs to map main models into simpler objects that are passed or displayed in the view.
+Use a new DTOs folder to host this objectws
+
+--- VALIDATION IN THE API PARAMETERS ---
+  In the DTO use attributes: [Required], 
+  Use or ModelSate.IsValid to validate if the model is valid. If using the decorator [ApiController], then no NEEDED
+
+  In the input parameters, we can specify the source of the information ([FromBody], [FromQuery])
+[c#]
+if(!ModelSate.IsValid)
+{
+return BadRequest(MOdelState);
+}
+[end]
+
+--- TOKEN AUTHENTICATION ---
+  JSON Web Tokens (JWT)
+    Header ===> {alg "HS512", typ"JWT"}
+    Payload
+    Secret header and payload encrypted
+    Header and Payload can be decoded and read by anyone, so beware of this!
+    The user authenticate in the server with username and password
+    The server responds with a JWT
+    The user sends this JWT for every requests that needs to be authenticated
+    The server validates the JWT and sends the response
+
+    We control what info we send in the JWT from client to server.
+    We can use this container to put info about the user so the server wont have to query the database to get info about the user (username, roles, etc ...). This is called claims
+  

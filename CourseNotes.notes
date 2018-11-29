@@ -50,7 +50,24 @@ Using the .NET CLI we create a new ASP .Net Core Web API, splitting the client a
     It is simple to read the file, with the operations that will be created and the rollback
   `dotnet ef database update`
     It run the migrations needed, creating the db if needed
-  
 
-  --- SECURING THE PASSWORD ---
-  
+--- SERVICES AND INJECTIONS ---
+Withing Startup.cs we can add the classes that can be instantiated and injected.
+The different methods to inject are addSingleton (singleton unique services), addTransient (lightweight and stateless methods) and addScoped (single instance per REQUEST, while the singletton is for the lifecycle)
+[cs]
+        public void ConfigureServices (IServiceCollection services) {
+            services.AddDbContext<DataContext> (x => x.UseSqlite (Configuration.GetConnectionString ("DefaultConnection")));
+            services.AddMvc ().SetCompatibilityVersion (CompatibilityVersion.Version_2_1);
+            services.AddCors ();
+            services.AddScoped<IAuthRepository, AuthRepository>()
+        }
+[end]
+
+
+--- SECURING THE SITE ---
+  Use salt plus hashing the password
+
+--- THE REPOSITORY PATTERN ---
+  Another layer of abstraction between the data and the business layer.
+  Firstly, it contains an interface and the implementation. Decoupling the application from the persistance framework.
+
