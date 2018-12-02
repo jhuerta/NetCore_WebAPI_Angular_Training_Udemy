@@ -1,7 +1,6 @@
 import { Injectable } from "@angular/core";
 import { HttpClient } from "@angular/common/http";
 import { map } from "rxjs/operators";
-import { ConsoleReporter } from "jasmine";
 
 @Injectable({
   providedIn: "root"
@@ -22,6 +21,23 @@ export class AuthService {
           }
         },
         (error: any) => {
+          console.log(error);
+        }
+      )
+    );
+  }
+
+  register(model: any) {
+    const urlRegister = `${this.baseUrl}register`;
+    return this.http.post(urlRegister, model).pipe(
+      map(
+        (response: any) => {
+          if (response) {
+            console.log("successful registration: " + response);
+          }
+        },
+        (error: any) => {
+          console.log("error registering");
           console.log(error);
         }
       )

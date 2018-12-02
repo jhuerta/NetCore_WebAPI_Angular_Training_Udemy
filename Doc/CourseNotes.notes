@@ -101,3 +101,8 @@ return BadRequest(MOdelState);
   Use Auth Controller
   JWT to secure api calls and add the authentication in the startup (authentication middleware)
 
+--- CLIENT SIDE LOGIN ---
+
+Easily use @Input and @Output (event emitters) to communicate among components
+Use localStorage (sessionStorage) to save data
+Use services (injectable if needed) to hold actions common to controllers, components or modules

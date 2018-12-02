@@ -29,3 +29,15 @@
     </button>
   </div>
 </form>
+
+<div class="form-group">
+  <label for="favouriteColor">What is your favourite color?</label>
+  <select id="favouriteColor" class="form-control">
+    <option *ngFor="let value of valuesFromHome"
+      >{{ value.id }} - {{ value.name }}</option
+    >
+  </select>
+</div>
+<!--
+  <p *ngFor="let value of valuesFromHome">{{ value.id }} - {{ value.name }}</p>
+-->

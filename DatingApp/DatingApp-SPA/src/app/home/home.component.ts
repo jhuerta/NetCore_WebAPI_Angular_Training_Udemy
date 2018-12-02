@@ -28,5 +28,13 @@ export class HomeComponent implements OnInit {
     );
   }
 
-  ngOnInit() {}
+  cancelRegisterMode(registerMode) {
+    console.log("registerMode");
+    console.log(registerMode);
+    this.registerMode = registerMode;
+  }
+
+  ngOnInit() {
+    this.getValues();
+  }
 }
