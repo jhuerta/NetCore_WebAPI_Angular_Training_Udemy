@@ -8,7 +8,6 @@ import { HttpClient } from "@angular/common/http";
 })
 export class HomeComponent implements OnInit {
   constructor(private http: HttpClient) {}
-  values: any;
   appDatingValuesURL = "http://localhost:5000/api/values";
 
   registerMode = false;
@@ -17,24 +16,11 @@ export class HomeComponent implements OnInit {
     this.registerMode = !this.registerMode;
   }
 
-  getValues() {
-    this.http.get(this.appDatingValuesURL).subscribe(
-      response => {
-        this.values = response;
-      },
-      errors => {
-        console.error(errors);
-      }
-    );
-  }
-
   cancelRegisterMode(registerMode) {
     console.log("registerMode");
     console.log(registerMode);
     this.registerMode = registerMode;
   }
 
-  ngOnInit() {
-    this.getValues();
-  }
+  ngOnInit() {}
 }

@@ -8,7 +8,6 @@ import { AuthService } from "../_services/auth.service";
 })
 export class RegisterComponent implements OnInit {
   constructor(private auth: AuthService) {}
-  @Input() valuesFromHome: any;
   @Output() cancelRegister = new EventEmitter<boolean>();
 
   model: any = {};
@@ -25,7 +24,6 @@ export class RegisterComponent implements OnInit {
         console.log(error);
       }
     );
-    console.log("registered");
   }
 
   cancel() {

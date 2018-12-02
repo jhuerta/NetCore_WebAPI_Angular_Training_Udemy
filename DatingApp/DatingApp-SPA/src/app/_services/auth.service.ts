@@ -32,6 +32,8 @@ export class AuthService {
     return this.http.post(urlRegister, model).pipe(
       map(
         (response: any) => {
+          console.log("successful registration 1: " + response);
+
           if (response) {
             console.log("successful registration: " + response);
           }
